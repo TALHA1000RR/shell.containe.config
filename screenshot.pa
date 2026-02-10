@@ -1,2 +1,0 @@
-WebAutomation.LaunchInternetExplorer.LaunchAutomationBrowser Url: $'''https://defuse.ca/online-x86-assembler.htm''' WindowState: WebAutomation.BrowserWindowState.Maximized ClearCache: False ClearCookies: False WaitForPageToLoadTimeout: 60 CustomUserAgentString: $'''''' TargetDesktop: $'''{\"DisplayName\":\"Computador local\",\"Route\":{\"ServerType\":\"Local\",\"ServerAddress\":\"\"},\"DesktopType\":\"local\"}''' BrowserInstance=> Browser
-WebAutomation.TakeScreenshot.TakeScreenshot BrowserInstance: Browser
